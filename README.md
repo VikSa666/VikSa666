@@ -18,7 +18,7 @@ I'm a mathematician that works as a software engineer at [Wiris](https://www.wir
 
 - 🔭 I’m currently working on personal projects to grow my portfolio and always keep learning
 - 🌱 I’m currently learning frontend skills and tools such as Vuejs.
-> - 💬 Ask me about literature 📖 or mathematics :🧮, I really love both!
+- 💬 Ask me about literature 📖 or mathematics :🧮, I really love both!
 - 📫 How to reach me: by email: 📧anvik474@gmail.com or by phone (Whatsapp) 📱606284154
 - ⚡ Fun fact: I'm a language passionate and I keep learning new languages. I want to do the same with programming languages! 🗺️
 
