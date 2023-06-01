@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Víctor 👋
 
 <!--
 **VikSa666/VikSa666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a mathematician that works as a software engineer at [Wiris](https://www.wiris.com/en/) developing [MathType Editor](https://www.wiris.com/en/mathtype/).
+
+- 🔭 I’m currently working on personal projects to grow my portfolio and always keep learning
+- 🌱 I’m currently learning frontend skills and tools such as Vuejs.
+> - 💬 Ask me about literature 📖 or mathematics :🧮, I really love both!
+- 📫 How to reach me: by email: 📧anvik474@gmail.com or by phone (Whatsapp) 📱606284154
+- ⚡ Fun fact: I'm a language passionate and I keep learning new languages. I want to do the same with programming languages! 🗺️
+
+
 [![Víctor's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VikSa666&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
